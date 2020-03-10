@@ -60,4 +60,5 @@
 - SNS
   - Twitter： @suipo
   - Facebook: https://www.facebook.com/k.taishi
+  - note: https://note.com/taishi
 - 連絡方法： TwitterもしくはFacebookのメッセージにて気軽にお送りください
