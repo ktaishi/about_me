@@ -51,6 +51,7 @@
 - 株式会社GNUS：ネットワークサポーター（ギルド型チーム組成フォロー　https://gnus.snar.jp ）
 - 株式会社GAX：運営サポート（ https://www.gax-tech.com/ ）
 - 開発受託案件：新規サービス開発（PHP/Laravel/Alibaba Cloud）
+- 開発受託案件：新規サービス開発（PHP/Laravel/Alibaba Cloud）
 - 就活支援
 
 ### コミュニケーション/作業場所
