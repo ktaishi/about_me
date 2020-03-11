@@ -25,7 +25,7 @@
 - 株式会社ネイン（ https://www.nain.jp/ja ） 取締役CCO（2014年11月〜2018年10月）
   - 経営：資金管理/社内オペレーション全般/採用/リソース調達/量販店向け商談・プロモーション/CS/イベント出展
   - 開発：サーバーサイド全般(主にAWS)/自社R&D（脳波データ解析、Python、Tensorflow）/自動車会社向けR&D案件リサーチ（Python/Tensorflow/OpenCV）/サーバーAPI開発(PHP/Golang)
-- Palmee & Co. ( https://www.palmee-tokyo.com/ ) （201８年11月〜現在）
+- Palmee & Co. ( https://www.palmee-tokyo.com/ ) （2018年11月〜現在）
   - 自社サービス開発（準備中）
   - スタートアップ業務フォロー
 
