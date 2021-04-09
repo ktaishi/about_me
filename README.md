@@ -9,7 +9,7 @@
 - 自社プロダクト「Palmee」の開発　https://www.palmee-tokyo.com/
 - スタートアップの業務オペレーション、開発、採用フォロー、アドバイス
 - 新規事業開発フォロー
-- 受託開発
+- 受託開発（Laravel/node.js/AWSが多めです）
 
 ## 略歴
 - 北海道札幌市出身/札幌平岸高校卒
@@ -27,7 +27,11 @@
   - 語学系マッチングサービス運営
 - 株式会社ネイン（ https://www.nain.jp/ja ） 取締役CCO（2014年11月〜2018年10月）
   - 経営：資金管理/社内オペレーション全般/採用/リソース調達/量販店向け商談・プロモーション/CS/イベント出展
-  - 開発：サーバーサイド全般(主にAWS)/自社R&D（脳波データ解析、Python、Tensorflow）/自動車会社向けR&D案件リサーチ（Python/Tensorflow/OpenCV）/サーバーAPI開発(PHP/Golang)
+  - 開発
+    - サーバーサイド全般(主にAWS)
+    - 自社R&D（脳波データ解析、Python、Tensorflow）
+    - 自動車会社向けR&D案件リサーチ（Python/Tensorflow/OpenCV）
+    - サーバーAPI開発(PHP/Golang)
 - Palmee & Co.（フリーランス） ( https://www.palmee-tokyo.com/ ) （2018年11月〜現在）
   - 自社サービス開発（準備中）
   - スタートアップ業務フォロー
@@ -58,13 +62,8 @@
 
 ## コミュニケーション/活動場所
 
-- 打ち合わせ可能場所：主に東京都内でしたらどちらでも大丈夫です、Zoomは頻繁に利用しています
-- 主な活動場所
-  - 自宅（東京都練馬区）
-  - コワーキングスペース（新宿もしくは渋谷、日経Office Pass利用中）
+- 打ち合わせ可能場所：東京都内でしたらどちらでも大丈夫です、Zoomは頻繁に利用しています
 - SNS
   - Twitter： @suipo
   - Facebook: https://www.facebook.com/k.taishi
   - note: https://note.com/taishi
-  - Instagram: https://www.instagram.com/taishi.kmg/
-  - Yenta
